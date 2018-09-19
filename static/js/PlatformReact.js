@@ -19601,7 +19601,6 @@ module.exports = warning;
 },{"114":114}]},{},[1])(1)
 });
 
-
 var PlatformReact = Object.assign(React, 
 {
 	GetName: function() {	
@@ -19609,6 +19608,3 @@ var PlatformReact = Object.assign(React,
 		return "Oleg";
 	}
 });
-
-
-
